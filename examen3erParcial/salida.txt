@@ -1,0 +1,5 @@
+hola panita: Tiene 5 vocales y el factorial de 5 es: 5 * 4 * 3 * 2 * 1 = 120
+ya termine el examen: Tiene 8 vocales
+hola: Tiene 2 vocales
+como andamos: Tiene 5 vocales y el factorial de 5 es: 5 * 4 * 3 * 2 * 1 = 120
+porque no jalas: Tiene 6 vocales
